@@ -15,4 +15,4 @@
  * limitations under the License.
  */
 
-rootProject.name = 'command'
+rootProject.name = 'fineract-cn-command'
